@@ -21,11 +21,11 @@ Desafio que tem como objetivo aperfeiçoamento das habilidade de git e Github
 <br id="codigo">
 
 # Bolo 
-[Bolo](https://github.com/Richardrafael/Atvi-wb-Richard-ADS3/tree/main/atvi-wb)
+[Bolo](https://github.com/Richardrafael/Livro-receita-/blob/master/receitas/bolo.md)
 <br id="bolo">
 
 # Lache
-[Lache](https://github.com/Richardrafael/Atvi-wb-Richard-ADS3/tree/main/atvi-wb)
+[Lache](https://github.com/Richardrafael/Livro-receita-/blob/master/receitas/lanche.md)
 <br id="lanche">
 
 # lasanha 
@@ -33,7 +33,7 @@ Desafio que tem como objetivo aperfeiçoamento das habilidade de git e Github
 <br id="lasanha">
 
 # Pizza 
-[Pizza](https://github.com/Richardrafael/Atvi-wb-Richard-ADS3/tree/main/atvi-wb)
+[Pizza](https://github.com/Richardrafael/Livro-receita-/blob/master/receitas/pizza.md)
 <br id="pizza">
 
 ## Eu
